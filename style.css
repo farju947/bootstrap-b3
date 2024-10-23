@@ -1,0 +1,20 @@
+
+
+ ul{
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    color: #333333;
+    font-size: 20px;
+    line-height: 18px;
+
+ } 
+ #btn1{
+    background-color: #FE8C45;
+    color: #FFFFFF;
+    width: 187px;
+    height: 52px;
+    padding-top:12px;
+    font-size: 18px;
+ }
+  
